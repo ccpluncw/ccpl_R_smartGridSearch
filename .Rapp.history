@@ -1,0 +1,547 @@
+source("charityYouRW.r", echo=T)
+source("charityYouRW.r", echo=T)
+source("charityYouRW.r", echo=T)
+df.fitted
+ch.updateRpackage (packageName = "RRW")
+ch.updateRpackage (packageName = "RRW")
+ch.updateRpackage (packageName = "RRW")
+df.fitted <- do.call(getRRWfit, x.in)
+df.fitted
+plotRRWFit (df.fitted[df.fitted$startEffectTen !=0, ], otherParamList$dataRtCol, otherParamList$dataPhitCol,  "rtFit", "pCross", "correct", "overlap", otherParamList$startEffectTen,  plotFilename = x.in$plotFilename)
+ch.updateRpackage (packageName = "RRW")
+plotRRWFit (df.fitted[df.fitted$startEffectTen !=0, ], otherParamList$dataRtCol, otherParamList$dataPhitCol,  "rtFit", "pCross", "correct", "overlap", otherParamList$startEffectTen,  plotFilename = x.in$plotFilename)
+plotRRWFit (df.fitted[df.fitted$startEffectTen !=0, ], otherParamList$dataRtCol, otherParamList$dataPhitCol,  "rtFit", "pCross", "correct", "overlap", "startEffectTen",  plotFilename = x.in$plotFilename)
+ch.updateRpackage (packageName = "RRW")
+plotRRWFit (df.fitted[df.fitted$startEffectTen !=0, ], otherParamList$dataRtCol, otherParamList$dataPhitCol,  "rtFit", "pCross", "correct", "overlap", "startEffectTen",  plotFilename = x.in$plotFilename)
+ch.updateRpackage (packageName = "RRW")
+plotRRWFit (df.fitted[df.fitted$startEffectTen !=0, ], otherParamList$dataRtCol, otherParamList$dataPhitCol,  "rtFit", "pCross", "correct", "overlap", "startEffectTen",  plotFilename = x.in$plotFilename)
+x.in$plotFilename
+plotRRWFit (df.fitted[df.fitted$startEffectTwenty !=0, ], otherParamList$dataRtCol, otherParamList$dataPhitCol,  "rtFit", "pCross", "correct", "overlap", "startEffectTen",  plotFilename = paste("startEffectTen", x.in$plotFilename))#
+ plotRRWFit (df.fitted[df.fitted$startEffectTwenty !=0, ], otherParamList$dataRtCol, otherParamList$dataPhitCol,  "rtFit", "pCross", "correct", "overlap", "startEffectTwenty",  plotFilename = paste("startEffectTwenty", x.in$plotFilename))#
+ plotRRWFit (df.fitted[df.fitted$startEffectSeventyFive !=0, ], otherParamList$dataRtCol, otherParamList$dataPhitCol,  "rtFit", "pCross", "correct", "overlap", "startEffectSeventyFive",  plotFilename = paste("startEffectSeventyFive", x.in$plotFilename))
+plotRRWFit (df.fitted[df.fitted$startEffectTwenty !=0, ], otherParamList$dataRtCol, otherParamList$dataPhitCol,  "rtFit", "pCross", "correct", "overlap", "startEffectTwenty",  plotFilename = paste("startEffectTwenty", x.in$plotFilename))
+ch.updateRpackage (packageName = "RRW")
+plotRRWFit (df.fitted[df.fitted$startEffectTwenty !=0, ], otherParamList$dataRtCol, otherParamList$dataPhitCol,  "rtFit", "pCross", "correct", "overlap", "startEffectTwenty",  plotFilename = paste("startEffectTwenty", x.in$plotFilename))
+plotRRWFit (df.fitted[df.fitted$startEffectTwenty !=0, ], otherParamList$dataRtCol, otherParamList$dataPhitCol,  "rtFit", "pCross", "correct", "overlap", "startEffectTen",  plotFilename = paste("startEffectTen", x.in$plotFilename))#
+ plotRRWFit (df.fitted[df.fitted$startEffectTwenty !=0, ], otherParamList$dataRtCol, otherParamList$dataPhitCol,  "rtFit", "pCross", "correct", "overlap", "startEffectTwenty",  plotFilename = paste("startEffectTwenty", x.in$plotFilename))#
+ plotRRWFit (df.fitted[df.fitted$startEffectSeventyFive !=0, ], otherParamList$dataRtCol, otherParamList$dataPhitCol,  "rtFit", "pCross", "correct", "overlap", "startEffectSeventyFive",  plotFilename = paste("startEffectSeventyFive", x.in$plotFilename))
+plotRRWFit (df.fitted[df.fitted$startEffectTwenty !=0, ], otherParamList$dataRtCol, otherParamList$dataPhitCol,  "rtFit", "pCross", "correct", "overlap", "startEffectTen",  plotFilename = paste("startEffectTen", x.in$plotFilename))
+plotRRWFit (df.fitted[df.fitted$startEffectTen !=0, ], otherParamList$dataRtCol, otherParamList$dataPhitCol,  "rtFit", "pCross", "correct", "overlap", "startEffectTen",  plotFilename = paste("startEffectTen", x.in$plotFilename))#
+ plotRRWFit (df.fitted[df.fitted$startEffectTwenty !=0, ], otherParamList$dataRtCol, otherParamList$dataPhitCol,  "rtFit", "pCross", "correct", "overlap", "startEffectTwenty",  plotFilename = paste("startEffectTwenty", x.in$plotFilename))#
+ plotRRWFit (df.fitted[df.fitted$startEffectSeventyFive !=0, ], otherParamList$dataRtCol, otherParamList$dataPhitCol,  "rtFit", "pCross", "correct", "overlap", "startEffectSeventyFive",  plotFilename = paste("startEffectSeventyFive", x.in$plotFilename))
+df.fitted <- do.call(getRRWfit, x.in)
+ch.updateRpackage (packageName = "RRW")
+ch.updateRpackage (packageName = "RRW")
+a <- NULL
+cat(a)
+cat a
+cat(a)
+cat(sCols)
+cat(otherParamList$sCols)
+?ch.BIC
+df.fitted
+?min.r2
+length(a)
+ch.updateRpackage (packageName = "RRW")
+ch.BIC
+?ch.BIC
+x.in$loopsPerRWstep = 200
+x.in <- as.list(x.grid$final)#
+  #NULL out the unused parameters#
+  x.in$r_out <- NULL#
+  x.in$sdR_out <- NULL#
+  #add the raw data#
+  x.in$data <- df.raw#
+  #add the output filenames#
+  x.in$sinkFilename <- paste(fileTag,"FitResults.txt")#
+  #add the other paramters#
+  x.in <- c(x.in, otherParamList)
+df.fitted <- do.call(getRRWfit, x.in)
+sink(NULL)
+sink(NULL)
+sink(NULL)
+sink(NULL)
+sink(NULL)
+sink(NULL)
+sink(NULL)
+ch.updateRpackage (packageName = "RRW")
+df.fitted <- do.call(getRRWfit, x.in)
+?ch.BIC
+ch.updateRpackage (packageName = "RRW")
+df.fitted <- do.call(getRRWfit, x.in)
+ch.BIC
+ch.updateRpackage (packageName = "RRW")
+df.fitted <- do.call(getRRWfit, x.in)
+ch.updateRpackage (packageName = "RRW")
+df.fitted <- do.call(getRRWfit, x.in)
+df.fitted <- do.call(getRRWfit, x.in)
+ch.updateRpackage (packageName = "RRW")
+df.fitted <- do.call(getRRWfit, x.in)
+ch.updateRpackage (packageName = "RRW")
+df.fitted <- do.call(getRRWfit, x.in)
+ch.updateRpackage (packageName = "RRW")
+df.fitted <- do.call(getRRWfit, x.in)
+ch.updateRpackage (packageName = "RRW")
+df.fitted <- do.call(getRRWfit, x.in)
+source("charityYouRW.r")
+source("charityYouRW.r")
+source("charityYouRW.r")
+df.raw
+source("charityYouRW.r")
+df.raw
+keepColsRT
+otherParamList
+s.in
+pU
+keepColsRT
+df.raw
+head(df.raw)
+require(dplyr)#
+library(RRW)#
+#
+test <- TRUE#
+#
+speedRespBias <- TRUE#
+choiceRespBias <- FALSE#
+valueChange <- TRUE#
+#
+#dollar <- "ten"#
+#
+analysisReadyData<-read.table("analysisReadyData.sn.txt", header=T, sep="\t")#
+#
+#tmp.df<-data.frame(analysisReadyData[analysisReadyData$typeOfScen==dollar, ])#
+tmp.df<-analysisReadyData#
+#
+#if "you" is HVI then dirOverlap < 0 else "you" is LVI#
+tmp.df$condEffect<-ifelse(tmp.df$dirOverlap > 0, 1, -1)#
+#
+keepColsPhit <- c("overlapRound", "correct", "pHit")#
+keepColsRT <- c("overlapRound", "correct", "rt", "n")#
+#prepare pHit data#
+if(choiceRespBias | valueChange) {#
+  #prepare data to set act = 1 if lower valued object will be killed by default otherwise act = -1#
+  #correct == T#
+  df.rwPhit.T<-data.frame(tmp.df %>% group_by(overlapRound, typeOfScen, condEffect) %>% summarise(pHit = mean(correct01)))#
+  #correct == F#
+  df.rwPhit.F<-data.frame(tmp.df %>% group_by(overlapRound, typeOfScen, condEffect) %>% summarise(pHit = 1 - mean(correct01)))#
+  #prepare RT data#
+  df.rwRT<-data.frame(tmp.df %>% group_by(overlapRound, typeOfScen, correct01, condEffect) %>% summarise(rt = mean(res.RT), n = length(correct01)))#
+#
+  if(choiceRespBias) {#
+    df.rwPhit.T$startEffectTen <- ifelse(df.rwPhit.T$typeOfScen == 'ten',df.rwPhit.T$condEffect, 0)#
+    df.rwPhit.T$startEffectTwentyFive <- ifelse(df.rwPhit.T$typeOfScen == 'twentyfive',df.rwPhit.T$condEffect, 0)#
+    df.rwPhit.T$startEffectSeventyFive <- ifelse(df.rwPhit.T$typeOfScen == 'seventyfive',df.rwPhit.T$condEffect, 0)#
+#
+    df.rwPhit.F$startEffectTen <- ifelse(df.rwPhit.F$typeOfScen == 'ten',df.rwPhit.F$condEffect, 0)#
+    df.rwPhit.F$startEffectTwentyFive <- ifelse(df.rwPhit.F$typeOfScen == 'twentyfive',df.rwPhit.F$condEffect, 0)#
+    df.rwPhit.F$startEffectSeventyFive <- ifelse(df.rwPhit.F$typeOfScen == 'seventyfive',df.rwPhit.F$condEffect, 0)#
+#
+    df.rwRT$startEffectTen <- ifelse(df.rwRT$typeOfScen == 'ten',df.rwRT$condEffect, 0)#
+    df.rwRT$startEffectTwentyFive <- ifelse(df.rwRT$typeOfScen == 'twentyfive',df.rwRT$condEffect, 0)#
+    df.rwRT$startEffectSeventyFive <- ifelse(df.rwRT$typeOfScen == 'seventyfive',df.rwRT$condEffect, 0)#
+#
+    #keep act column#
+    keepColsPhit <- c(keepColsPhit, "startEffectTen", "startEffectTwentyFive", "startEffectSeventyFive")#
+    keepColsRT <- c(keepColsRT, "startEffectTen", "startEffectTwentyFive", "startEffectSeventyFive")#
+  }#
+  if(speedRespBias) {#
+    df.rwPhit.T$boundaryTen <- ifelse(df.rwPhit.T$typeOfScen == 'ten',1, 0)#
+    df.rwPhit.T$boundaryTwentyFive <- ifelse(df.rwPhit.T$typeOfScen == 'twentyfive',1, 0)#
+    df.rwPhit.T$boundarySeventyFive <- ifelse(df.rwPhit.T$typeOfScen == 'seventyfive',1, 0)#
+#
+    df.rwPhit.F$boundaryTen <- ifelse(df.rwPhit.F$typeOfScen == 'ten',1, 0)#
+    df.rwPhit.F$boundaryTwentyFive <- ifelse(df.rwPhit.F$typeOfScen == 'twentyfive',1, 0)#
+    df.rwPhit.F$boundarySeventyFive <- ifelse(df.rwPhit.F$typeOfScen == 'seventyfive',1, 0)#
+#
+    df.rwRT$boundaryTen <- ifelse(df.rwRT$typeOfScen == 'ten',1, 0)#
+    df.rwRT$boundaryTwentyFive <- ifelse(df.rwRT$typeOfScen == 'twentyfive',1, 0)#
+    df.rwRT$boundarySeventyFive <- ifelse(df.rwRT$typeOfScen == 'seventyfive',1, 0)#
+#
+    #keep act column#
+    keepColsPhit <- c(keepColsPhit, "boundaryTen", "boundaryTwentyFive", "boundarySeventyFive")#
+    keepColsRT <- c(keepColsRT, "boundaryTen", "boundaryTwentyFive", "boundarySeventyFive")#
+  }#
+  df.rwPhit.T$typeOfScen <- NULL#
+  df.rwPhit.F$typeOfScen <- NULL#
+  df.rwRT$typeOfScen <- NULL#
+#
+}#
+if(choiceRespBias == FALSE & valueChange == FALSE) {#
+  #correct == T#
+  df.rwPhit.T<-data.frame(tmp.df %>% group_by(overlapRound) %>% summarise(pHit = mean(correct01)))#
+  #correct == F#
+  df.rwPhit.F<-data.frame(tmp.df %>% group_by(overlapRound) %>% summarise(pHit = 1 - mean(correct01)))#
+  df.rwRT<-data.frame(tmp.df %>% group_by(overlapRound, correct01) %>% summarise(rt = mean(res.RT), n = length(correct01)))#
+}#
+#
+#create correct column for phit and RT dataset#
+df.rwPhit.T$correct <- TRUE#
+df.rwPhit.F$correct <- FALSE#
+df.rwRT$correct <- ifelse (df.rwRT$correct01 == 1, TRUE, FALSE)#
+#
+#merge correct and incorrect data for phit dataset#
+df.pHit <- merge(df.rwPhit.T,df.rwPhit.F, all=T)#
+#keep only needed columns#
+df.pHit <- df.pHit[, keepColsPhit]#
+df.rwRT <- df.rwRT[, keepColsRT]#
+#
+#merge pHit and RT data#
+df.raw <- merge(df.pHit,df.rwRT, all=T)#
+#
+#### now prepare for the RW#
+#source the grid search functions.  This will eventually become a package#
+source("/Users/dalejcohen/Dropbox/UNCW/Active UNCW/research/Stats/grid search/grid search1.r")#
+#
+## set constants#
+ #this is the overlapRounds#
+ overlapSeq <- seq(0,1, 0.1)#
+ #number of intervals to split each bounded parameter into in order to get the random values between the hi and low values#
+ numGridIntervals <- 100#
+ #the number of times to loop with grid search before looking for the top 10 best fits.#
+ numGridLoops <- ifelse (test, 20, 200)#
+#the number of loops for each RW step.#
+ loopsPerRWstep <- ifelse (test, 50, 200)#
+ #the number of loops for each RW step - for the fitted.#
+  loopsPerRWstepFitted <- ifelse (test, 400, 2000)#
+#paramtable confirmation loops#
+ optBoundLoops <- ifelse (test, 2, 10)#
+ #use multicore#
+ useMultiCore <- ifelse (test, FALSE, TRUE)#
+ #the minimum number of trials per overlapRound to include in the analysis.#
+ minN <- 40#
+#
+ #which parameters to Use#
+ #noise SD#
+ nSD.in = TRUE#
+ #decay beta#
+ db.in = TRUE#
+ #start point#
+ s.in = TRUE#
+#
+ #Fill the list with the parameters that will be sent to the RRW via the smartGridSearch#
+ otherParamList <- list(dataOverlapCol = "overlapRound", RwSamplesCol = "Q50", dataRtCol = "rt", dataPhitCol = "pHit", dataCorrectCol = "correct", loopsPerRWstep = loopsPerRWstep)#
+#
+ #create a file tag that will be used to save files.  it will be time and date stamped#
+ fileTag <- paste(format(Sys.time(), "%b_%d_%Y_%H-%M"), "youDollar", sep="_")#
+ if(choiceRespBias == TRUE) {#
+   fileTag <- paste(fileTag, "RespBias", sep="")#
+ }#
+ if(valueChange == TRUE) {#
+   fileTag <- paste(fileTag, "valueChange", sep="")#
+ }#
+#
+ #remove low n conditions#
+ df.raw$rt <- ifelse(df.raw$n < minN, NA, df.raw$rt)#
+#
+ ## create list of upper (pU), lower (pL), and inteval (pI), values for each parameter.#
+ #boundary values#
+ pU <- list()#
+ pL <- list()#
+ pI <- list()#
+#
+ #boundary values#
+ if(speedRespBias == TRUE) {#
+   pU <- c(pU, list( b = c(b10 = 25, b25 = 25, b75 = 25) ))#
+   pL <- c(pL, list( b = c(b10 = 2, b25 = 2, b75 = 2) ))#
+   pI <- c(pI, list( b = c(b10 = 0.01, b25 = 0.01, b75 = 0.01) ))#
+#
+   otherParamList <- c(otherParamList, list(bCols = c("boundaryTen", "boundaryTwentyFive", "boundarySeventyFive")) )#
+#
+ } else {#
+   pU <- c(pU, list(b = 25))#
+   pL <- c(pL, list(b = 2))#
+   pI <- c(pI, list(b = 0.01))#
+ }#
+ #noise SD values#
+ if (nSD.in == TRUE) {#
+   pU <- c(pU, list(nSD = 3.5))#
+   pL <- c(pL, list(nSD = 0))#
+   pI <- c(pI, list(nSD = .01))#
+ }#
+ #decay beta values#
+ if (db.in == TRUE) {#
+   pU <- c(pU, list(db = 0.5))#
+   pL <- c(pL, list(db= -0.5))#
+   pI <- c(pI, list(db = 0.001))#
+ }#
+#
+ #start point values#
+ if (s.in == TRUE) {#
+   pU <- c(pU, list(s= 0.9))#
+   pL <- c(pL, list(s= -0.9))#
+   pI <- c(pI, list(s= 0.01))#
+#
+   df.raw$startEffect <- df.raw$condEffect#
+   otherParamList <- c(otherParamList, list(sCols = 'startEffect'))#
+   keepColsRT <- c(keepColsRT, "startEffect")#
+} else {#
+   #add startBiasEffect if we are testing for a response bias#
+   if(choiceRespBias) {#
+       pU <- c(pU, list( s = c(s10 = 0.95, s25 = 0.95, s75 = 0.95) ))#
+       pL <- c(pL, list( s = c(s10 = -0.95, s25 = -0.95, s75 = -0.95) ))#
+       pI <- c(pI, list( s = c(s10 = 0.01, s25 = 0.01, s75 = 0.01) ))#
+#
+       otherParamList <- c(otherParamList, list(sCols = c("startEffectTen", "startEffectTwentyFive", "startEffectSeventyFive")) )#
+   }#
+ }#
+  #add valueChangeEffect if we are testing for a value valueChangeEffect#
+  if (valueChange == TRUE) {#
+#
+    pU <- c(pU, list(vc = 0.5))#
+    pL <- c(pL, list(vc = -0.5))#
+    pI <- c(pI, list(vc = 0.001))#
+#
+    df.raw$valueChange <- df.raw$condEffect#
+    otherParamList <- c(otherParamList, list(vcCols = 'valueChange'))#
+    keepColsRT <- c(keepColsRT, "valueChange")#
+  }#
+#
+ #remove df.raw$condEffect#
+ df.raw$condEffect <- NULL
+df.raw
+head(df.raw)
+source("charityYouRW.r")
+head(df.raw)
+source("charityYouRW.r")
+yMinMixRT
+if(speedRespBias) {#
+   plotRRWFit (df.fitted[df.fitted$boundaryTen !=0, ], otherParamList$dataRtCol, otherParamList$dataPhitCol,  "rtFit", "pCross", "correct", "overlap", "boundaryTen",  plotFilename = paste("boundaryTen", plotFilename), yMinMixRT=yMinMixRT)#
+   plotRRWFit (df.fitted[df.fitted$boundaryTwentyFive !=0, ], otherParamList$dataRtCol, otherParamList$dataPhitCol,  "rtFit", "pCross", "correct", "overlap", "boundaryTwentyFive",  plotFilename = paste("boundaryTwentyFive", plotFilename), yMinMixRT=yMinMixRT)#
+   plotRRWFit (df.fitted[df.fitted$boundarySeventyFive !=0, ], otherParamList$dataRtCol, otherParamList$dataPhitCol,  "rtFit", "pCross", "correct", "overlap", "boundarySeventyFive",  plotFilename = paste("boundarySeventyFive", plotFilename), yMinMixRT=yMinMixRT)#
+ }
+plotRRWFit (df.fitted[df.fitted$boundaryTen !=0, ], otherParamList$dataRtCol, otherParamList$dataPhitCol,  "rtFit", "pCross", "correct", "overlap", "startEffect",  plotFilename = paste("boundaryTen", plotFilename), yMinMixRT=yMinMixRT)
+if(speedRespBias) {#
+   plotRRWFit (df.fitted[df.fitted$boundaryTen !=0, ], otherParamList$dataRtCol, otherParamList$dataPhitCol,  "rtFit", "pCross", "correct", "overlap", "startEffect",  plotFilename = paste("boundaryTen", plotFilename), yMinMixRT=yMinMixRT)#
+   plotRRWFit (df.fitted[df.fitted$boundaryTwentyFive !=0, ], otherParamList$dataRtCol, otherParamList$dataPhitCol,  "rtFit", "pCross", "correct", "overlap", "startEffect",  plotFilename = paste("boundaryTwentyFive", plotFilename), yMinMixRT=yMinMixRT)#
+   plotRRWFit (df.fitted[df.fitted$boundarySeventyFive !=0, ], otherParamList$dataRtCol, otherParamList$dataPhitCol,  "rtFit", "pCross", "correct", "overlap", "startEffect",  plotFilename = paste("boundarySeventyFive", plotFilename), yMinMixRT=yMinMixRT)#
+ }
+setwd("~/Dropbox/UNCW/Active UNCW/research/Programming/R Packages/smartGridSearch")
+use_package("chutils") # Defaults to imports
+setwd(wd)
+require(dplyr)#
+library(RRW)#
+#
+test <- FALSE#
+#
+speedRespBias <- TRUE#
+choiceRespBias <- FALSE#
+valueChange <- TRUE#
+#
+#dollar <- "ten"#
+#
+analysisReadyData<-read.table("analysisReadyData.sn.txt", header=T, sep="\t")#
+#
+#tmp.df<-data.frame(analysisReadyData[analysisReadyData$typeOfScen==dollar, ])#
+tmp.df<-analysisReadyData#
+#
+#if "you" is HVI then dirOverlap < 0 else "you" is LVI#
+tmp.df$condEffect<-ifelse(tmp.df$dirOverlap > 0, 1, -1)#
+#
+keepColsPhit <- c("overlapRound", "correct", "pHit")#
+keepColsRT <- c("overlapRound", "correct", "rt", "n")#
+#prepare pHit data#
+if(choiceRespBias | valueChange) {#
+  #prepare data to set act = 1 if lower valued object will be killed by default otherwise act = -1#
+  #correct == T#
+  df.rwPhit.T<-data.frame(tmp.df %>% group_by(overlapRound, typeOfScen, condEffect) %>% summarise(pHit = mean(correct01)))#
+  #correct == F#
+  df.rwPhit.F<-data.frame(tmp.df %>% group_by(overlapRound, typeOfScen, condEffect) %>% summarise(pHit = 1 - mean(correct01)))#
+  #prepare RT data#
+  df.rwRT<-data.frame(tmp.df %>% group_by(overlapRound, typeOfScen, correct01, condEffect) %>% summarise(rt = mean(res.RT), n = length(correct01)))#
+#
+  keepColsPhit <- c(keepColsPhit, "condEffect")#
+  keepColsRT <- c(keepColsRT, "condEffect")#
+#
+  if(choiceRespBias) {#
+    df.rwPhit.T$startEffectTen <- ifelse(df.rwPhit.T$typeOfScen == 'ten',df.rwPhit.T$condEffect, 0)#
+    df.rwPhit.T$startEffectTwentyFive <- ifelse(df.rwPhit.T$typeOfScen == 'twentyfive',df.rwPhit.T$condEffect, 0)#
+    df.rwPhit.T$startEffectSeventyFive <- ifelse(df.rwPhit.T$typeOfScen == 'seventyfive',df.rwPhit.T$condEffect, 0)#
+#
+    df.rwPhit.F$startEffectTen <- ifelse(df.rwPhit.F$typeOfScen == 'ten',df.rwPhit.F$condEffect, 0)#
+    df.rwPhit.F$startEffectTwentyFive <- ifelse(df.rwPhit.F$typeOfScen == 'twentyfive',df.rwPhit.F$condEffect, 0)#
+    df.rwPhit.F$startEffectSeventyFive <- ifelse(df.rwPhit.F$typeOfScen == 'seventyfive',df.rwPhit.F$condEffect, 0)#
+#
+    df.rwRT$startEffectTen <- ifelse(df.rwRT$typeOfScen == 'ten',df.rwRT$condEffect, 0)#
+    df.rwRT$startEffectTwentyFive <- ifelse(df.rwRT$typeOfScen == 'twentyfive',df.rwRT$condEffect, 0)#
+    df.rwRT$startEffectSeventyFive <- ifelse(df.rwRT$typeOfScen == 'seventyfive',df.rwRT$condEffect, 0)#
+#
+    #keep act column#
+    keepColsPhit <- c(keepColsPhit, "startEffectTen", "startEffectTwentyFive", "startEffectSeventyFive")#
+    keepColsRT <- c(keepColsRT, "startEffectTen", "startEffectTwentyFive", "startEffectSeventyFive")#
+  }#
+  if(speedRespBias) {#
+    df.rwPhit.T$boundaryTen <- ifelse(df.rwPhit.T$typeOfScen == 'ten',1, 0)#
+    df.rwPhit.T$boundaryTwentyFive <- ifelse(df.rwPhit.T$typeOfScen == 'twentyfive',1, 0)#
+    df.rwPhit.T$boundarySeventyFive <- ifelse(df.rwPhit.T$typeOfScen == 'seventyfive',1, 0)#
+#
+    df.rwPhit.F$boundaryTen <- ifelse(df.rwPhit.F$typeOfScen == 'ten',1, 0)#
+    df.rwPhit.F$boundaryTwentyFive <- ifelse(df.rwPhit.F$typeOfScen == 'twentyfive',1, 0)#
+    df.rwPhit.F$boundarySeventyFive <- ifelse(df.rwPhit.F$typeOfScen == 'seventyfive',1, 0)#
+#
+    df.rwRT$boundaryTen <- ifelse(df.rwRT$typeOfScen == 'ten',1, 0)#
+    df.rwRT$boundaryTwentyFive <- ifelse(df.rwRT$typeOfScen == 'twentyfive',1, 0)#
+    df.rwRT$boundarySeventyFive <- ifelse(df.rwRT$typeOfScen == 'seventyfive',1, 0)#
+#
+    #keep act column#
+    keepColsPhit <- c(keepColsPhit, "boundaryTen", "boundaryTwentyFive", "boundarySeventyFive")#
+    keepColsRT <- c(keepColsRT, "boundaryTen", "boundaryTwentyFive", "boundarySeventyFive")#
+  }#
+  df.rwPhit.T$typeOfScen <- NULL#
+  df.rwPhit.F$typeOfScen <- NULL#
+  df.rwRT$typeOfScen <- NULL#
+#
+}#
+if(choiceRespBias == FALSE & valueChange == FALSE) {#
+  #correct == T#
+  df.rwPhit.T<-data.frame(tmp.df %>% group_by(overlapRound) %>% summarise(pHit = mean(correct01)))#
+  #correct == F#
+  df.rwPhit.F<-data.frame(tmp.df %>% group_by(overlapRound) %>% summarise(pHit = 1 - mean(correct01)))#
+  df.rwRT<-data.frame(tmp.df %>% group_by(overlapRound, correct01) %>% summarise(rt = mean(res.RT), n = length(correct01)))#
+}#
+#
+#create correct column for phit and RT dataset#
+df.rwPhit.T$correct <- TRUE#
+df.rwPhit.F$correct <- FALSE#
+df.rwRT$correct <- ifelse (df.rwRT$correct01 == 1, TRUE, FALSE)#
+#
+#merge correct and incorrect data for phit dataset#
+df.pHit <- merge(df.rwPhit.T,df.rwPhit.F, all=T)#
+#keep only needed columns#
+df.pHit <- df.pHit[, keepColsPhit]#
+df.rwRT <- df.rwRT[, keepColsRT]#
+#
+#merge pHit and RT data#
+df.raw <- merge(df.pHit,df.rwRT, all=T)#
+#
+#### now prepare for the RW#
+#source the grid search functions.  This will eventually become a package#
+source("/Users/dalejcohen/Dropbox/UNCW/Active UNCW/research/Stats/grid search/grid search2.r")#
+#
+## set constants#
+ #this is the overlapRounds#
+ overlapSeq <- seq(0,1, 0.1)#
+ #number of intervals to split each bounded parameter into in order to get the random values between the hi and low values#
+ numGridIntervals <- 100#
+ #the number of times to loop with grid search before looking for the top 10 best fits.#
+ numGridLoops <- ifelse (test, 20, 200)#
+#the number of loops for each RW step.#
+ loopsPerRWstep <- ifelse (test, 50, 200)#
+ #the number of loops for each RW step - for the fitted.#
+  loopsPerRWstepFitted <- ifelse (test, 400, 2000)#
+#paramtable confirmation loops#
+ optBoundLoops <- ifelse (test, 2, 10)#
+ #use multicore#
+ useMultiCore <- ifelse (test, FALSE, TRUE)#
+ #the minimum number of trials per overlapRound to include in the analysis.#
+ minN <- 40#
+#
+ #which parameters to Use#
+ #noise SD#
+ nSD.in = TRUE#
+ #decay beta#
+ db.in = TRUE#
+ #start point#
+ s.in = TRUE#
+#
+ #Fill the list with the parameters that will be sent to the RRW via the smartGridSearch#
+ otherParamList <- list(dataOverlapCol = "overlapRound", RwSamplesCol = "Q50", dataRtCol = "rt", dataPhitCol = "pHit", dataCorrectCol = "correct", loopsPerRWstep = loopsPerRWstep)#
+#
+ #create a file tag that will be used to save files.  it will be time and date stamped#
+ fileTag <- paste(format(Sys.time(), "%b_%d_%Y_%H-%M"), "youDollar", sep="_")#
+ if(choiceRespBias == TRUE) {#
+   fileTag <- paste(fileTag, "RespBias", sep="")#
+ }#
+ if(valueChange == TRUE) {#
+   fileTag <- paste(fileTag, "valueChange", sep="")#
+ }#
+#
+ #remove low n conditions#
+ df.raw$rt <- ifelse(df.raw$n < minN, NA, df.raw$rt)#
+#
+ ## create list of upper (pU), lower (pL), and inteval (pI), values for each parameter.#
+ #boundary values#
+ pU <- list()#
+ pL <- list()#
+ pI <- list()#
+#
+ #boundary values#
+ if(speedRespBias == TRUE) {#
+   pU <- c(pU, list( b = c(b10 = 25, b25 = 25, b75 = 25) ))#
+   pL <- c(pL, list( b = c(b10 = 2, b25 = 2, b75 = 2) ))#
+   pI <- c(pI, list( b = c(b10 = 0.01, b25 = 0.01, b75 = 0.01) ))#
+#
+   otherParamList <- c(otherParamList, list(bCols = c("boundaryTen", "boundaryTwentyFive", "boundarySeventyFive")) )#
+#
+ } else {#
+   pU <- c(pU, list(b = 25))#
+   pL <- c(pL, list(b = 2))#
+   pI <- c(pI, list(b = 0.01))#
+ }#
+ #noise SD values#
+ if (nSD.in == TRUE) {#
+   pU <- c(pU, list(nSD = 3.5))#
+   pL <- c(pL, list(nSD = 0))#
+   pI <- c(pI, list(nSD = .01))#
+ }#
+ #decay beta values#
+ if (db.in == TRUE) {#
+   pU <- c(pU, list(db = 0.5))#
+   pL <- c(pL, list(db= -0.5))#
+   pI <- c(pI, list(db = 0.001))#
+ }#
+#
+ #start point values#
+ if (s.in == TRUE) {#
+   pU <- c(pU, list(s= 0.9))#
+   pL <- c(pL, list(s= -0.9))#
+   pI <- c(pI, list(s= 0.01))#
+#
+   df.raw$startEffect <- df.raw$condEffect#
+   otherParamList <- c(otherParamList, list(sCols = 'startEffect'))#
+   keepColsRT <- c(keepColsRT, "startEffect")#
+} else {#
+   #add startBiasEffect if we are testing for a response bias#
+   if(choiceRespBias) {#
+       pU <- c(pU, list( s = c(s10 = 0.95, s25 = 0.95, s75 = 0.95) ))#
+       pL <- c(pL, list( s = c(s10 = -0.95, s25 = -0.95, s75 = -0.95) ))#
+       pI <- c(pI, list( s = c(s10 = 0.01, s25 = 0.01, s75 = 0.01) ))#
+#
+       otherParamList <- c(otherParamList, list(sCols = c("startEffectTen", "startEffectTwentyFive", "startEffectSeventyFive")) )#
+   }#
+ }#
+  #add valueChangeEffect if we are testing for a value valueChangeEffect#
+  if (valueChange == TRUE) {#
+#
+    pU <- c(pU, list(vc = 0.5))#
+    pL <- c(pL, list(vc = -0.5))#
+    pI <- c(pI, list(vc = 0.001))#
+#
+    df.raw$valueChange <- df.raw$condEffect#
+    otherParamList <- c(otherParamList, list(vcCols = 'valueChange'))#
+    keepColsRT <- c(keepColsRT, "valueChange")#
+  }#
+#
+ #remove df.raw$condEffect#
+ df.raw$condEffect <- NULL#
+#
+ otherParamList <- c(otherParamList, list(data = df.raw))
+otherParamList
+otherParamList
+?detectCores
+?detectCores()
+require(foreach)#
+	require(doParallel)#
+	require(parallel)
+?detectCores()
+?makeCluster()
+?registerDoParallel()
+?stopCluster()
+?rm()
+?foreach
+setwd("~/Dropbox/UNCW/Active UNCW/research/Programming/R Packages/smartGridSearch")#
+use_package("chutils") # Defaults to imports#
+use_package("foreach")#
+use_package("doParallel")#
+use_package("parallel")
+?makeCluster()
+ch.updateRpackage (packageName = "smartGridSearch")
