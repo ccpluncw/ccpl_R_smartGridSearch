@@ -91,6 +91,7 @@ smartGridSearch <- function (fn, parsUpper, parsLower, parsMinInt, otherParamLis
           runSimulation(fn, optParsUpper, optParsLower, parsMinInt, otherParamList, numIntervals)
         }
       }
+
       #after sampling the parameter space numLoops times, add the currentBest fit (from last sequence of loops if it exists) to the parameter list
       if(is.null(currentBest) == FALSE) {
         df.pars <- c(df.pars, list(currentBest))
@@ -115,7 +116,7 @@ smartGridSearch <- function (fn, parsUpper, parsLower, parsMinInt, otherParamLis
         #now get all the simulated values for that parameter for the best simulations
         tmp.best <- lapply(df.bestPars,'[', c(parNames[i]))
         #convert them into dataframe
-        tmp.best.array <- as.data.frame(matrix(unlist(tmp.best), ncol=tmp.n, byrow=F))
+        tmp.best.array <- as.data.frame(matrix(unlist(tmp.best), ncol=tmp.n, byrow=T))
 
         #for each column in the dataframe (i.e., each value in the vector - e.g., b1, b2, etc.), get the new bounds.
         for(j in 1:length(tmp.up)) {
