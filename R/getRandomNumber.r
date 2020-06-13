@@ -14,6 +14,6 @@
 #' @examples getRandomNumber (1, 0, 10, 1)
 
 getRandomNumber <- function (n, min, max, interval) {
-	x <- sample(seq (min,max,interval),n, replace = TRUE)
+	x <- sample(rep(seq (min,max,interval),2),n, replace = TRUE)
 	return (x)
 }

@@ -43,8 +43,8 @@ getOrderedParamList <- function(paramList, listItemToMinimize = "r_out", optPara
       }
 
       #calculate average results of simulation
-      mR_out <- mean(r_out)
-      sdR_out <- sd(r_out)
+      mR_out <- mean(r_out, na.rm=T)
+      sdR_out <- sd(r_out, na.rm=T)
       orderedParams[[1]]$r_out <- mR_out
       orderedParams[[1]]$sdR_out <- sdR_out
 

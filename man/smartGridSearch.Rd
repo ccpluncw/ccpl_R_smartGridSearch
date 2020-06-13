@@ -4,10 +4,21 @@
 \alias{smartGridSearch}
 \title{Grid Search Optimization Function}
 \usage{
-smartGridSearch(fn, parsUpper, parsLower, parsMinInt,
-  otherParamList = NULL, numLoops = 200, numIntervals = 25,
-  optParamListN = 10, optBoundLoops = 10, roundPrecision = 3,
-  progress = T, multicore = F, multicorePackages = NULL)
+smartGridSearch(
+  fn,
+  parsUpper,
+  parsLower,
+  parsMinInt,
+  otherParamList = NULL,
+  numLoops = 200,
+  numIntervals = 25,
+  optParamListN = 10,
+  optBoundLoops = 10,
+  roundPrecision = 3,
+  progress = T,
+  multicore = F,
+  multicorePackages = NULL
+)
 }
 \arguments{
 \item{fn}{A function that runs the model you would like to optimize.  It should return the fit statistic that is to be minimized.}

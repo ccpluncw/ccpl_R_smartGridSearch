@@ -78,7 +78,7 @@ smartGridSearch <- function (fn, parsUpper, parsLower, parsMinInt, otherParamLis
 
           #add the current run to the dataframe containing the previous runs
           df.pars <- c(df.pars, df.pars.tmp)
-
+          
           #show progress
           if(progress) {
             setTxtProgressBar(pb, j)
