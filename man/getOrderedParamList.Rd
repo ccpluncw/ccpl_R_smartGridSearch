@@ -4,14 +4,8 @@
 \alias{getOrderedParamList}
 \title{Function to identify and return the top N runs of the simulation (sorted)}
 \usage{
-getOrderedParamList(
-  paramList,
-  listItemToMinimize = "r_out",
-  optParamListN = 10,
-  fn,
-  otherParamList = NULL,
-  optBoundLoops = 10
-)
+getOrderedParamList(paramList, listItemToMinimize = "r_out",
+  optParamListN = 10, fn, otherParamList = NULL, optBoundLoops = 10)
 }
 \arguments{
 \item{paramList}{A list of lists, with each sublist containing the parameter values for a run of the simulation.  The top level list contains all the runs of the simulation.}
