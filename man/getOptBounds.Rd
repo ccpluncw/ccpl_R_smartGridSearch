@@ -4,8 +4,13 @@
 \alias{getOptBounds}
 \title{Function to resize the upper and lower boundary range of a parameter.}
 \usage{
-getOptBounds(arrayIn, originalUpperBound, originalLowerBound,
-  minimumIntervalValue, numIntervals = 25)
+getOptBounds(
+  arrayIn,
+  originalUpperBound,
+  originalLowerBound,
+  minimumIntervalValue,
+  numIntervals = 25
+)
 }
 \arguments{
 \item{arrayIn}{An array of the the parameter's values from the best fit runs (presumably).}

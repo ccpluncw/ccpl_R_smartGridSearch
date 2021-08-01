@@ -23,7 +23,7 @@
 #' @importFrom foreach %dopar%
 #' @examples smartGridSearch (assessRRWfit, parsUpper = list(a = (a1 = 1, a2 = 1)), parsLower = list(a = (a1 = 0, a2 = 0)), parsMinInt = list(a = (a1 = 0.01, a2 = 0.01)), otherParamList = list( data = data.frame ( ... ), ...), numLoops = 100, numIntervals = 100, optBoundLoops = 10, multicore = TRUE, multicorePackages = c('RRW'))
 
-smartGridSearch <- function (fn, parsUpper, parsLower, parsMinInt, otherParamList = NULL, numLoops = 200, numIntervals = 25, optParamListN = 10, optBoundLoops = 10, roundPrecision = 3, progress = T, multicore = F, multicorePackages = NULL) {
+smartGridSearch <- function (fn, parsUpper, parsLower, parsMinInt, otherParamList = NULL, numLoops = 200, numIntervals = 25, optParamListN = 10, optBoundLoops = 10, roundPrecision = 3, progress = F, multicore = F, multicorePackages = NULL) {
 
     library(chutils)
 
@@ -78,7 +78,7 @@ smartGridSearch <- function (fn, parsUpper, parsLower, parsMinInt, otherParamLis
 
           #add the current run to the dataframe containing the previous runs
           df.pars <- c(df.pars, df.pars.tmp)
-          
+
           #show progress
           if(progress) {
             setTxtProgressBar(pb, j)

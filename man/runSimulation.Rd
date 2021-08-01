@@ -4,8 +4,14 @@
 \alias{runSimulation}
 \title{Function to run the simulation for the smartGridSearch.}
 \usage{
-runSimulation(fn, optParsUpper, optParsLower, parsMinInt, otherParamList,
-  numIntervals)
+runSimulation(
+  fn,
+  optParsUpper,
+  optParsLower,
+  parsMinInt,
+  otherParamList,
+  numIntervals
+)
 }
 \arguments{
 \item{fn}{A function that runs the model you would like to optimize.  It should return the fit statistic that is to be minimized.}
